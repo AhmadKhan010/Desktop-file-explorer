@@ -12,8 +12,11 @@ This is a JFrame-based Desktop File Explorer built in Java, allowing users to na
 ✅ Google Java Style Guide Compliance
 
 # Technologies Used
-Java (JDK 8+)
+Java (JDK 8+) 
+
 Swing (JFrame, JTree, JTable, JFileChooser, etc.)
+
 Java IO (File handling)
+
 Object-Oriented Programming (OOP)
 
